@@ -1,0 +1,7 @@
+07-03-2024
+- live coding praktek Javascript DOM pada website
+- membahas sedikit node js dan config http server untuk di implementasi pada challenge
+- membahas  plus minus dan best practice penggunaan chatgpt pada development projek utk developer
+- membuat http server dan req url yang kita buat membaca html file dengan bantuan FS module 
+- membaca directory dimudahkan dengan path module
+
